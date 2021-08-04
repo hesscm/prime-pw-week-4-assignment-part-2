@@ -1,0 +1,13 @@
+body {background-color: green;}
+
+header {background-color: red;}
+
+.info {background-color: blue;
+       font-family: fantasy;
+       color: orange;}
+
+img {width: 50%;
+     height: 50%;}
+
+h3  {background-color: pink;
+     color: purple;}
