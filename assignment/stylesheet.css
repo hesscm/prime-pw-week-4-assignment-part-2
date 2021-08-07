@@ -1,13 +1,31 @@
-body {background-color: green;}
 
-header {background-color: red;}
+/*body indicators*/
+body {background-color: #d0e4f5;
+      text-align: center;
+      background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+}
 
-.info {background-color: blue;
+/*first text block(header) indicators*/
+header {background-color: #3c6799;
+        text-align: center;
+        font-family: fantasy;
+        font-weight: bolder;
+        }
+
+/*2nd text block indicators*/
+.info {background-color: #87abd4;
        font-family: fantasy;
-       color: orange;}
+       color: #747572;
+       }
 
+/*image indicators*/
 img {width: 50%;
-     height: 50%;}
+     height: 50%;
+     border: 5px solid #555;
+     box-shadow: 5px 10px 15px #888888;
+     }
 
-h3  {background-color: pink;
-     color: purple;}
+/*third text block indicators*/
+h3  {background-color: #97badb;
+     color: #747572;
+    font-family: 'Times New Roman', serif;}
